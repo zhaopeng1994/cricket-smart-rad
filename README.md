@@ -1,2 +1,2 @@
-# grasshopper-smart-rad
-蚂蚱智慧研发
+# cricket-smart-rad
+蟋蟀智慧研发
